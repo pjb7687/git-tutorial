@@ -1,2 +1,2 @@
 # git-tutorial
-git tutorial 2022
+git tutorial 2022 @ PNUBCE
